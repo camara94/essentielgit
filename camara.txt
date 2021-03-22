@@ -1,0 +1,35 @@
+commit d51956f2191e3b57582ed993502654c216500bc5
+Author: Laby Damaro Camara <ldamaro98@gmail.com>
+Date:   Mon Mar 22 23:04:20 2021 +0100
+
+    add style to my index.html
+
+commit 6ab19bd17b12005bb51128cea1444197dd632ce0
+Author: Laby Damaro Camara <ldamaro98@gmail.com>
+Date:   Mon Mar 22 22:58:55 2021 +0100
+
+    add .gitignore
+
+commit dacaca203c6013235918990c1022c8f30eb00bd7
+Author: Laby Damaro Camara <ldamaro98@gmail.com>
+Date:   Mon Mar 22 22:48:34 2021 +0100
+
+    add index.html
+
+commit 11b44d9e97df5b55e6b58b9a1c31801a4a160616
+Author: Laby Damaro Camara <ldamaro98@gmail.com>
+Date:   Mon Mar 22 22:40:34 2021 +0100
+
+    rm fichier3.txt
+
+commit b24b7abbb5f742ef272dadb70968563750ee0513
+Author: Laby Damaro Camara <ldamaro98@gmail.com>
+Date:   Mon Mar 22 22:35:47 2021 +0100
+
+    add file
+
+commit 48b890bb82df70137841af5b9f7099b923ef90df
+Author: Laby Damaro Camara <ldamaro98@gmail.com>
+Date:   Mon Mar 22 20:13:30 2021 +0100
+
+    Résumé du cours
