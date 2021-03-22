@@ -1,0 +1,3 @@
+[submodule "assets/bootstrap-1"]
+	path = assets/bootstrap-1
+	url = git@github.com:camara94/bootstrap-1.git
